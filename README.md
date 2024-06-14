@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srbsri&label=Profile%20views&color=0e75b6&style=flat" alt="srbsri" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srbsri" alt="srbsri" /></a> </p>
+- 🔭 I’m currently learning & working on an e-commence web app in [.NET8 Core by Bhrugen Patel on Udemy](https://www.udemy.com/course/complete-aspnet-core-21-course/?couponCode=KEEPLEARNING)
 
-- 🔭 I’m currently learning & working on [an e-commence web app in .NET8 Core by Bhrugen Patel on Udemy](https://www.udemy.com/course/complete-aspnet-core-21-course/?couponCode=KEEPLEARNING)
-
-- 🌱 I’m currently learning **.NET8 Core**
+- 🌱 I’m currently learning **.NET8 Core with Entity Framework Core**
 
 - 📫 How to reach me **srb.sri25@gmail.com**
 
