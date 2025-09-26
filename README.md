@@ -44,3 +44,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srbsri&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="180" />
   <img src="https://github-readme-stats.vercel.app/api?username=srbsri&show_icons=true&locale=en" alt="GitHub Stats" height="180" />
 </p>
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srbsri&show_icons=true&locale=en&layout=compact&count_private=true" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=srbsri&show_icons=true&count_private=true&locale=en" alt="GitHub Stats" height="180" />
+</p>
