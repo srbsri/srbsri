@@ -33,3 +33,9 @@
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="4_
+
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srbsri&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=srbsri&show_icons=true&locale=en" alt="GitHub Stats" height="180" />
+</p>
+
